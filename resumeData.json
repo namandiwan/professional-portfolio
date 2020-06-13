@@ -1,0 +1,131 @@
+{
+  "main": {
+    "name": "Naman Diwan",
+    "occupation": "Software Developer",
+    "description": "currently employed by Cerner Corporation where I work as a full stack software engineer across a range of our healthcare services",
+    "image": "profilepic.jpg",
+    "bio": "I am an athlete at heart, with an entrepreneurial spirit, a knack for web development, and a passion for coding. I pursued my first development job to kick off my career as I was hired as a full stack developer by Cerner Corporation, where I still work today. I am a focused and hardworking individual with underlying interest in Data Analytics field & good decision making abilities. I want to utilize my abilities and work on a challenging job profile to enhance my technical skills and knowledge which would further help in becoming an efficient software professional. ",
+    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "namandiwan91@gmail.com",
+    "phone": "(+91)-8296374693",
+    "address": {
+      "street": "Sector 4",
+      "city": "Gurgaon,",
+      "state": "Haryana",
+      "zip": "122001"
+    },
+    "website": "http://www.namandiwan.com",
+    "resumedownload": "http://namandiwan.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/naman.diwannn",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/namandiwan/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/namandiwan/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/namandiwan",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "education": [
+      {
+        "school": "Manipal Institute of Technology, Manipal",
+        "degree": "Bachelors of Technology in Information Technology",
+        "graduated": "2016-2020",
+        "description": "Here I took my Bachelors of Information Technology with a Big Data Analytics Specialty and achieved a much more thorough education in the underlying theory, concepts, and science behind more complex programming. It was here that I discovered my passion for scalable application programming (web), machine learning and data analysis, and found that I have a knack for understanding complex algorithms."
+      },
+      {
+        "school": "Delhi Public School, Vasant Kunj",
+        "degree": "High School (Computer Science)",
+        "graduated": "2014-2016",
+        "description": "I attended Delhi Public School, Vasant Kunj for 2 years to complete my High School. While here, I studied Computer Science Technology along with Physics, Chemistry and Maths. This was a very hands-on experience focused more on building projects than general theory. Here I got to learn C++ for the first time and gained hands on with the help of my teachers. I scored 95.4% overall and was the topper in English scoring 97 in CBSE boards during 2014-2016 batch."
+      }
+    ],
+    "work": [
+      {
+        "company": "Cerner Corporation",
+        "title": "Software Intern",
+        "years": "January 2020 - Present",
+        "description": "I Worked in Revenue Cycle Department to create a Modify Transaction View using ReactJs, TerraUI & Spring Boot while following agile methodology using Git, Jira, Crucible, Jenkins and Docker. I have worked extensively with React/Redux as well as with react hooks. This project aimed towards Customer ease in application for Denied adjustments. Here I have had the chance to dig in and get my hands dirty with all parts of our software."
+      },
+      {
+        "company": "Powergrid Corporation of India",
+        "title": "Software Intern",
+        "years": "May 2019 - July 2019",
+        "description": " IWorked on a web application called Service Reminder using .NET framework, C# and SQL Server Management Studio.The web application is used to remind the associates about pending and upcoming services. I got the opportunity to learn various languages for Backend as well as frontend and working on this project made me more confident regarding choosing the career as a Full Stack Developer."
+      },
+      {
+        "company": "Powergrid Corporation of India",
+        "title": "Networking Intern",
+        "years": "May 2018 - June 2018",
+        "description": "I Worked on a project involving Network Whitelisting using DHCP servers to allocate the IP addresses to the users in the domain of the company.I Made use of Powershell, Excel and DHCP server on windows remote machine.The best part of the internship was the tour of Data Centre which my mentor gave me and made me learn about various routers, switches and along with the maintenance and working of a Data Centre. "
+      },
+      {
+        "company": "Fidelity National Information Services",
+        "title": "Research Intern",
+        "years": "May 2017 - July 2017",
+        "description": "I Performed research & prepared reports on various topics regarding future forecasts, current trends, Business tools and declining trends in Machine Learning, Artificial intelligence, Learning Management System and Robotic Process Automation as a part of Data Collection stage in Data Analytics. This is where I learnt that data is a necessary part of any organizational unit and many efforts are needed to prepare and collect data during initial stages to load clean and well-formatted data in a Data Warehouse"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "It was a pleasure working with Naman for a month at FIS. During this time, he worked on multiple projects related to Artificial Intelligence, Machine Learning, Robotic Process Automation etc. and delivered them with great accuracy. Naman is a person who takes strong ownership for his work and is driven and strives to excel in whatever work he is assigned. He has the ability to grasp things quickly and has the willingness to learn. He is creative, energetic, solution oriented and highly motivated with great communication skills. He is an asset to any organization that he is with.",
+        "user": "Anjali Kakati, Digital Transformation Manager at Fis"
+      },
+      {
+        "text": "I was particularly impressed by Naman's ability to learn and implement newer technologies very quickly. During his internship period at Cerner he utilized the opportunities to complete a project involving front end technologies like React Js,Bootstrap etc. Naman would be an appreciated member of any team!",
+        "user": "Prathvishree Madhyastha, Software Engineer at Philips"
+      }
+    ]
+  }
+}

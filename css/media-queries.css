@@ -44,14 +44,6 @@
     letter-spacing: 1.5px;
   }
 
-  @media only screen and (min-device-width: 375px) and (max-device-width: 812px) and (-webkit-min-device-pixel-ratio: 3) {
-    .x-bar .x-bg .x-bg-layer-lower-image {
-      background-attachment: scroll !important;
-      height: 100% !important;
-      overflow: hidden;
-    }
-  }
-
   /* About Section
    ------------------------------------------------------------------- */
   #about .profile-pic {
